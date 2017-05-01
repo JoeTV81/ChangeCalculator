@@ -1,0 +1,25 @@
+h1 {
+  text-decoration: underline;
+  text-align: center;
+  color: black;
+}
+
+h2 {
+  text-decoration: underline;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+body {
+  color: rgb(46, 26, 26);
+  color: rgb(0, 0, 0);
+  background-image: url("http://www.klikglodok.com/toko/img/cms/Komputer%20kasir/Mesin%20Kasir/Casio/Casio%20SE-C2000M/Harga%20Mesin%20Kasir%20Casio%20SE-C2000M%20SE-C2000MB%20SE-C2000.jpg");
+}
+
+div {
+  padding: 0.009px;
+  text-decoration: underline;
+}
